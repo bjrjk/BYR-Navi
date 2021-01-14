@@ -1,5 +1,5 @@
 - categories:
-  - name: 语言参考手册
+  - name: 语言/算法参考手册
     links:
     - name: CPPReference
       style: basic
@@ -8,6 +8,10 @@
     - name: CPlusPlus
       style: basic
       url: http://www.cplusplus.com/
+      
+    - name: OI Wiki
+      style: basic
+      url: https://oi-wiki.org/
 
   - name: 算法竞赛题库/OJ
     links:
@@ -46,51 +50,14 @@
     - name: CCF中学生程序设计在线评测系统
       style: basic
       url: http://oj.noi.cn/oj/
+    
+  - name: 编程能力认证
+    links:
+    - name: PAT计算机程序设计能力考试
+      style: basic
+      url: https://www.patest.cn/
       
-
-  - name: 社交
-    links:
-    - name: 微博
-      icon: weibo red
+    - name: CCF CSP认证
       style: basic
-      url: https://weibo.com/
+      url: http://www.cspro.org/
 
-    
-
-  - name: 学习
-    links:
-    - name: Coursera
-      style: basic
-      url: https://www.coursera.org/
-
-    
-
-  - name: 娱乐
-    links:
-    - name: 优酷
-      style: basic
-      url: https://youku.com/
-
-
-- categories:
-  - name: 北邮校园
-    links:
-    - name: 北邮官网
-      style: basic
-      url: http://www.bupt.edu.cn/
-
-
-
-  - name: 校园助手
-    links:
-    - name: 空余教室查询
-      style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
-
-
-
-  - name: 论坛相关
-    links:
-    - name: 北邮人论坛
-      style: teal
-      url: http://bbs.byr.cn/
