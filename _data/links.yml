@@ -147,4 +147,92 @@
       style: basic
       url: https://ctf-wiki.org/
       
+  - name: CTF练习平台
+    links:
+    - name: 合天网安实验室
+      style: basic
+      url: https://www.hetianlab.com/
+      
+    - name: 攻防世界
+      style: basic
+      url: https://adworld.xctf.org.cn/
+      
+    - name: BUUCTF OJ
+      style: basic
+      url: https://buuoj.cn/
+      
+    - name: i春秋
+      style: basic
+      url: https://www.ichunqiu.com/
+      
+  - name: CTF搜索引擎
+    links:
+    - name: DNSDB | 全球DNS搜索引擎
+      style: basic
+      url: https://dnsdb.io/
+      
+    - name: Shodan
+      style: basic
+      url: https://www.shodan.io/
+      
+    - name: FOFA
+      style: basic
+      url: https://fofa.so/
+      
+    - name: ZoomEye
+      style: basic
+      url: https://www.zoomeye.org/
+      
+    - name: Censys
+      style: basic
+      url: https://censys.io/
+      
+  - name: CTF工具
+    links:
+    - name: crt.sh | Certificate Search
+      style: basic
+      url: https://crt.sh/
+    
+    - name: ViewDNS.info
+      style: basic
+      url: https://viewdns.info/
+      
+    - name: JavaScript Obfuscator Tool
+      style: basic
+      url: https://obfuscator.io/
+      
+    - name: ANY.RUN - Interactive Online Malware Sandbox
+      style: basic
+      url: https://any.run/
+      
+    - name: CTF在线工具
+      style: basic
+      url: http://ctf.ssleye.com/
+      
+    - name: 爱盘 - 在线破解工具包
+      style: basic
+      url: https://down.52pojie.cn/
+      
+    - name: 看雪工具
+      style: basic
+      url: https://tool.pediy.com/
+      
+- categories:
+  - name: 服务器/主机推荐网
+    links:
+    - name: 赵容部落
+      style: basic
+      url: http://www.zrblog.net/
+      
+    - name: 挖站否
+      style: basic
+      url: https://wzfou.com/
+      
+    - name: LowEndBox
+      style: basic
+      url: https://lowendbox.com/
+      
+    - name: 主机百科
+      style: basic
+      url: https://zhujiwiki.com/
       
