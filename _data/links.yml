@@ -1,4 +1,60 @@
 - categories:
+  - name: 科技资讯
+    links:
+    - name: Solidot
+      style: basic
+      url: https://www.solidot.org/
+      
+    - name: Wired
+      style: basic
+      url: https://www.wired.com/
+
+    - name: The Verge
+      style: basic
+      url: https://www.theverge.com/
+      
+    - name: InfoQ
+      style: basic
+      url: https://www.infoq.cn/
+      
+    - name: cnBeta
+      style: basic
+      url: https://www.cnbeta.com/
+      
+    - name: IT之家
+      style: basic
+      url: https://www.ithome.com/
+      
+    - name: CSDN
+      style: basic
+      url: https://www.csdn.net/
+      
+  - name: 论坛社区
+    - name: V2EX
+      style: basic
+      url: https://www.v2ex.com/
+      
+    - name: StackOverFlow
+      style: basic
+      url: https://stackoverflow.com/
+      
+    - name: HostLoc
+      style: basic
+      url: https://www.hostloc.com/
+      
+    - name: LowEndTalk
+      style: basic
+      url: https://www.lowendtalk.com/
+      
+    - name: 看雪安全论坛
+      style: basic
+      url: https://bbs.pediy.com/
+      
+    - name: 吾爱破解
+      style: basic
+      url: https://www.52pojie.cn/
+      
+- categories:
   - name: 语言/算法参考手册
     links:
     - name: CPPReference
@@ -61,3 +117,25 @@
       style: basic
       url: http://www.cspro.org/
 
+- categories:
+  - name: 信息安全资讯平台
+    links:
+    - name: 安全圈info
+      style: basic
+      url: https://www.anquanquan.info/
+      
+    - name: FreeBuf
+      style: basic
+      url: https://www.freebuf.com/
+      
+    - name: 安全脉搏
+      style: basic
+      url: https://www.secpulse.com/
+      
+    - name: 安全客
+      style: basic
+      url: https://www.anquanke.com/
+      
+    - name: 看雪学院
+      style: basic
+      url: https://www.kanxue.com/
