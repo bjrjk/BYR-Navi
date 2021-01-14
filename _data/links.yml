@@ -236,3 +236,46 @@
       style: basic
       url: https://zhujiwiki.com/
       
+- categories:
+  - name: 小工具
+    links:
+    - name: Wolfram|Alpha: Computational Intelligence
+      style: basic
+      url: https://www.wolframalpha.com/
+      
+    - name: 沧水的KMS激活服务
+      style: basic
+      url: http://kms.cangshui.net/
+      
+    - name: 超级简历WonderCV
+      style: basic
+      url: https://www.wondercv.com/
+      
+    - name: Diagram Software and Flowchart Maker
+      style: basic
+      url: https://www.diagrams.net/
+
+    - name: gitignore.io - Create Useful .gitignore Files For Your Project
+      style: basic
+      url: https://www.toptal.com/developers/gitignore
+      
+    - name: RegExr: Learn, Build, & Test RegEx
+      style: basic
+      url: https://regexr.com/
+      
+    - name: Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+      style: basic
+      url: https://regex101.com/
+      
+    - name: 在线 LaTeX 公式编辑器
+      style: basic
+      url: https://www.codecogs.com/latex/eqneditor.php
+
+    - name: EDA PlayGround
+      style: basic
+      url: https://www.edaplayground.com/
+      
+    - name: MSDN，我告诉你
+      style: basic
+      url: https://msdn.itellyou.cn/
+      
