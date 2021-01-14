@@ -140,3 +140,9 @@
     - name: 看雪学院
       style: basic
       url: https://www.kanxue.com/
+      
+  - name: CTF手册
+    links:
+    - name: CTF Wiki
+      style: basic
+      url: https://ctf-wiki.org/
