@@ -187,6 +187,10 @@
       style: basic
       url: https://censys.io/
       
+    - name: Web Archive
+      style: basic
+      url: https://web.archive.org/
+      
   - name: CTF工具
     links:
     - name: crt.sh | Certificate Search
@@ -239,6 +243,13 @@
     - name: 主机百科
       style: basic
       url: https://zhujiwiki.com/
+      
+- categories:
+  - name: 基础能力竞赛
+    links:
+    - name: CourseGrading 计算机专业课程一体化支撑平台
+      style: basic
+      url: https://course.educg.net/
       
 - categories:
   - name: 小工具
